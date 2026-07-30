@@ -1,0 +1,9 @@
+reporting_period,kpi_id,kpi_name,data_owner,reviewer,approval_status,owner_submission_date,review_date,approval_date,sign_off_comment
+2026-Q2,GHG-001,Scope 1 greenhouse gas emissions,Energy Manager,Sustainability Reporting Analyst,Approved,2026-07-15,2026-07-17,2026-07-18,Calculation and supporting evidence reviewed
+2026-Q2,GHG-002,Scope 2 emissions location-based,Energy Manager,Sustainability Reporting Analyst,Approved,2026-07-15,2026-07-17,2026-07-18,Utility invoices reconciled to reported value
+2026-Q2,GHG-003,Scope 2 emissions market-based,Energy Manager,Sustainability Reporting Analyst,Pending,2026-07-16,2026-07-18,,Awaiting final renewable energy certificate review
+2026-Q2,GHG-004,Scope 3 purchased goods and services,Procurement Director,ESG Reporting Manager,Under Review,2026-07-17,2026-07-19,,Material movement and supplier-data coverage under review
+2026-Q2,ENE-001,Total energy consumption,Facilities Manager,Sustainability Reporting Analyst,Approved,2026-07-15,2026-07-17,2026-07-18,Energy-system export reconciled
+2026-Q2,WAT-001,Total water withdrawal,Facilities Manager,Sustainability Reporting Analyst,Approved,2026-07-14,2026-07-16,2026-07-17,Invoice pack reviewed and approved
+2026-Q2,WST-001,Total waste generated,Operations Manager,Sustainability Reporting Analyst,Approved,2026-07-16,2026-07-18,2026-07-19,Contractor report reviewed
+2026-Q2,WST-002,Waste diverted from disposal,Operations Manager,Sustainability Reporting Analyst,Pending,2026-07-16,2026-07-18,,Awaiting clarification of diversion methodology
