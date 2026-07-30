@@ -1,0 +1,13 @@
+task_id,close_phase,activity,task_owner,reviewer,start_date,due_date,status,dependency,control_objective,required_evidence
+CLOSE-001,Planning,Confirm reporting scope and KPI population,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-01,2026-07-02,Complete,None,Ensure all reportable KPIs are included,Approved KPI inventory
+CLOSE-002,Planning,Confirm data owners and reviewers,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-01,2026-07-03,Complete,CLOSE-001,Establish reporting accountability,Owner and reviewer matrix
+CLOSE-003,Data collection,Issue quarterly data request,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-03,2026-07-04,Complete,CLOSE-002,Initiate controlled data collection,Data-request communication
+CLOSE-004,Data collection,Submit KPI data and supporting evidence,KPI Data Owners,Sustainability Reporting Analyst,2026-07-04,2026-07-15,Complete,CLOSE-003,Obtain complete source data and evidence,KPI submissions and evidence files
+CLOSE-005,Validation,Run automated KPI validation,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-16,2026-07-16,Complete,CLOSE-004,Identify completeness validity and approval exceptions,Validation results and summary
+CLOSE-006,Validation,Reconcile evidence references to evidence register,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-16,2026-07-17,Complete,CLOSE-004,Confirm evidence traceability,Evidence register
+CLOSE-007,Review,Investigate validation exceptions,KPI Data Owners,Sustainability Reporting Analyst,2026-07-17,2026-07-20,In Progress,CLOSE-005,Resolve or explain identified exceptions,Exception responses
+CLOSE-008,Review,Review material period-on-period movements,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-17,2026-07-20,In Progress,CLOSE-005,Document explanations for significant variance,Variance commentary
+CLOSE-009,Approval,Complete KPI reviewer challenge,KPI Reviewers,ESG Reporting Manager,2026-07-20,2026-07-22,Pending,CLOSE-007,Confirm data is suitable for reporting,Reviewer comments
+CLOSE-010,Approval,Obtain final KPI sign-off,ESG Reporting Manager,Finance Director,2026-07-22,2026-07-23,Pending,CLOSE-009,Prevent unapproved KPIs entering final reporting,Signed approval register
+CLOSE-011,Close pack,Compile quarter-end sustainability close pack,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-23,2026-07-24,Pending,CLOSE-010,Create complete reporting audit trail,Final close pack
+CLOSE-012,Close pack,Archive final files and evidence,Sustainability Reporting Analyst,ESG Reporting Manager,2026-07-24,2026-07-24,Pending,CLOSE-011,Preserve controlled reporting records,Archived version-controlled files
