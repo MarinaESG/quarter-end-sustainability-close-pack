@@ -1,0 +1,9 @@
+evidence_id,kpi_id,reporting_period,evidence_type,source_document,data_owner,received_date,review_status,reviewer,retention_location
+EVID-001,GHG-001,2026-Q2,Calculation workbook,scope_1_calculation_q2_2026.xlsx,Energy Manager,2026-07-15,Approved,Sustainability Reporting Analyst,evidence/climate
+EVID-002,GHG-002,2026-Q2,Utility invoice pack,electricity_invoices_q2_2026.pdf,Energy Manager,2026-07-15,Approved,Sustainability Reporting Analyst,evidence/climate
+EVID-003,GHG-003,2026-Q2,Renewable energy certificate,renewable_energy_certificates_2026.pdf,Energy Manager,2026-07-16,Pending,Sustainability Reporting Analyst,evidence/climate
+EVID-004,GHG-004,2026-Q2,Procurement extract,purchased_goods_scope3_q2_2026.xlsx,Procurement Director,2026-07-17,Under Review,ESG Reporting Manager,evidence/scope_3
+EVID-005,ENE-001,2026-Q2,Energy-system export,total_energy_consumption_q2_2026.csv,Facilities Manager,2026-07-15,Approved,Sustainability Reporting Analyst,evidence/energy
+EVID-006,WAT-001,2026-Q2,Water invoice pack,water_invoices_q2_2026.pdf,Facilities Manager,2026-07-14,Approved,Sustainability Reporting Analyst,evidence/water
+EVID-007,WST-001,2026-Q2,Waste contractor report,waste_generated_q2_2026.pdf,Operations Manager,2026-07-16,Approved,Sustainability Reporting Analyst,evidence/waste
+EVID-008,WST-002,2026-Q2,Waste contractor report,waste_diversion_q2_2026.pdf,Operations Manager,2026-07-16,Pending,Sustainability Reporting Analyst,evidence/waste
