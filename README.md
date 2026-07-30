@@ -2,6 +2,10 @@
 
 An assurance-ready sustainability reporting portfolio project demonstrating how quarterly ESG and sustainability KPI data can be collected, validated, evidenced, reviewed and approved through a controlled reporting process.
 
+## Portfolio statement
+
+I built an assurance-ready quarter-end sustainability reporting close pack that links KPI ownership, source evidence, automated validation, exception management, variance review and formal sign-off within a version-controlled reporting workflow.
+
 ## Project objective
 
 This project simulates the work performed by a sustainability reporting analyst during a quarter-end reporting close.
