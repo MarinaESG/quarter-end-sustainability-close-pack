@@ -1,0 +1,8 @@
+SUSTAINABILITY KPI VALIDATION SUMMARY
+=====================================
+Input records reviewed: 8
+Total exceptions: 4
+High-severity exceptions: 0
+Medium-severity exceptions: 4
+Low-severity exceptions: 0
+Detailed exception log: outputs/validation_results.csv

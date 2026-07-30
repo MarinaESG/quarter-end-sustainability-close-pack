@@ -1,0 +1,5 @@
+row_number,kpi_id,severity,control,message
+4,GHG-003,Medium,Approval workflow,KPI is not fully approved; current status is 'Pending'.
+4,GHG-003,Medium,Period-on-period movement,Movement of -26.2% exceeds the 20% review threshold.
+5,GHG-004,Medium,Approval workflow,KPI is not fully approved; current status is 'Under Review'.
+9,WST-002,Medium,Approval workflow,KPI is not fully approved; current status is 'Pending'.
