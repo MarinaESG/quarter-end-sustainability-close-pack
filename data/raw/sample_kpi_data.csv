@@ -1,0 +1,9 @@
+reporting_period,kpi_id,kpi_name,category,unit,current_value,prior_value,data_owner,evidence_reference,approval_status,source_system,last_updated
+2026-Q2,GHG-001,Scope 1 greenhouse gas emissions,Climate,tCO2e,1250,1320,Energy Manager,EVID-001,Approved,Energy Management System,2026-07-15
+2026-Q2,GHG-002,Scope 2 emissions location-based,Climate,tCO2e,840,910,Energy Manager,EVID-002,Approved,Utility Invoices,2026-07-15
+2026-Q2,GHG-003,Scope 2 emissions market-based,Climate,tCO2e,310,420,Energy Manager,EVID-003,Pending,Renewable Energy Certificates,2026-07-16
+2026-Q2,GHG-004,Scope 3 purchased goods and services,Climate,tCO2e,4850,4600,Procurement Director,EVID-004,Under Review,Procurement System,2026-07-17
+2026-Q2,ENE-001,Total energy consumption,Energy,MWh,9650,10100,Facilities Manager,EVID-005,Approved,Energy Management System,2026-07-15
+2026-Q2,WAT-001,Total water withdrawal,Water,m3,28400,27600,Facilities Manager,EVID-006,Approved,Water Invoices,2026-07-14
+2026-Q2,WST-001,Total waste generated,Waste,tonnes,720,755,Operations Manager,EVID-007,Approved,Waste Contractor Reports,2026-07-16
+2026-Q2,WST-002,Waste diverted from disposal,Waste,percent,68,64,Operations Manager,EVID-008,Pending,Waste Contractor Reports,2026-07-16
