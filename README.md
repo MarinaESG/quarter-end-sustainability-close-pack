@@ -6,6 +6,10 @@ An assurance-ready sustainability reporting portfolio project demonstrating how 
 
 I built an assurance-ready quarter-end sustainability reporting close pack that links KPI ownership, source evidence, automated validation, exception management, variance review and formal sign-off within a version-controlled reporting workflow.
 
+## Live dashboard
+
+[Open the interactive sustainability reporting dashboard](https://marinaesg.github.io/quarter-end-sustainability-close-pack/)
+
 ## Project objective
 
 This project simulates the work performed by a sustainability reporting analyst during a quarter-end reporting close.
